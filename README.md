@@ -1,2 +1,11 @@
 # CPP-Using-Libraries
-Read input file &amp; store data in array. Create and use DLL to assess a risk. Sort the data. Assess risk based on Algorithm A. Assess risk based on Algorithm 2
+Language: C++ 
+Creating and using an SLL (Static Link Library) and a DLL (Dynamically Linked Library)
+
+Providing evidence of breakpoints, single stepping, applying "watch" to variables
+
+Optimisation - Implementing a quick sort algorithm comparing time complexity with bubble sort.
+
+Comparing the performance of both sort functions in release and debug Visual Studio configurations
+
+Coming soon...
